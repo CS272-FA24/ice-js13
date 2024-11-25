@@ -1,0 +1,14 @@
+h2 { 
+    font-size: 1.33em;
+}
+
+.bi-star, .bi-star-fill {
+    cursor: pointer;
+    position: absolute;
+    top: .25em;
+    right: .25em;
+}
+
+.card {
+    position: relative;
+}
